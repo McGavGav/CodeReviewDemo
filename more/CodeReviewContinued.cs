@@ -35,12 +35,12 @@ namespace ProblematicCode
                 CreatedAt = DateTime.Now
             };
 
-            /*
+            
             if (user.Age < 18)
             {
                 return false;
             }
-            */
+            
 
             try
             {
